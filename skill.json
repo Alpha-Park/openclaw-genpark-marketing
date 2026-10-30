@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-marketing",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Marketing - Hill adstock saturation curve and KKT multi-channel budget allocator with Cox proportional churn hazards.",
+  "tools": [
+    "compute_hill_adstock_saturation",
+    "optimize_kkt_budget_allocation",
+    "calculate_churn_hazard"
+  ]
+}
